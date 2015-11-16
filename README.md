@@ -11,7 +11,7 @@ $: cd /path_to_game_folder/
 $: javac *.java
 $: java Snake
 ```
-How to play: \n
+How to play:
 Directional arrow keys
 
 ENJOY! :)
