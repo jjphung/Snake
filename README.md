@@ -5,6 +5,10 @@ My version of the original snake game includes 3 difficulties: easy, medium, and
 #### Screenshot of Menu:
 Menu here: [home screen](http://s14.postimg.org/4pc4vniip/Selection_004.png)
 
+#### Prerequisites:
+```
+javac, java
+```
 How to run:
 ```
 $: cd /path_to_game_folder/
