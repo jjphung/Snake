@@ -34,7 +34,7 @@ public class Snake{
 
     //home screen panel
     homeScreen = new JPanel(new BorderLayout());
-    homeScreen.setPreferredSize(new Dimension(320, 240)); // probably you need to remove this line!
+    homeScreen.setPreferredSize(new Dimension(320, 240));
 
     JLabel bg = new JLabel();
     bg.setPreferredSize(new Dimension(320, 240));
